@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ssh Maven Webapp"
+  id="myeclipse.1432624985674"
+  context-root="/ssh"
+  j2ee-spec="1.7"
+  archive="ssh Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="target/ssh" />
+  </attributes>
+</project-module>
+
